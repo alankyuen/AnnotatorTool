@@ -1,0 +1,16 @@
+{
+	“flickerapi_secret” : "",
+	"object" : "",
+	"image_folder" : "",
+	"window_size" : [600,600],
+	"controls_dict" : {
+		"confirm" : "c",
+		"select_all" : "a",
+		"next_image" : "p",
+		"prev_image" : "o",
+		"deselect" : "s",
+		"delete" : "d"
+	},
+	"savedir" : "",
+	"autosave_time_cycle" : 10
+}
